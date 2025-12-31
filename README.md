@@ -31,27 +31,27 @@ A fully accessible web application built to empower voices in disability accessi
 ## 📸 Screenshots
 
 ### Welcome Page
-![Welcome Page](screenshots/0.png)
+![Welcome Page](0.png)
 *Landing page with accessibility features and call to action*
 
 ### Sign In
-![Sign In](screenshots/1.png)
+![Sign In](1.png)
 *Simple and accessible login interface*
 
 ### Dashboard
-![Dashboard](screenshots/2.png)
+![Dashboard](2.png)
 *User dashboard showing vote counts, surveys, and quick access to features*
 
 ### Accessibility Survey
-![Survey](screenshots/3.png)
+![Survey](3.png)
 *Survey page with voice input and text-to-speech capabilities*
 
 ### AI Chat Assistant
-![AI Chat](screenshots/4.png)
+![AI Chat](4.png)
 *Interactive chatbot providing voting statistics and insights*
 
 ### Code Structure
-![Code](screenshots/5.png)
+![Code](5.png)
 *Clean, well-organized Django application code*
 
 ## 📋 Prerequisites
